@@ -1,0 +1,36 @@
+#pogrubienie_fokin {
+    font-size: 29px;
+    color: #925CD4;
+    font-weight: bold;
+}
+
+#pochylona_fokin {
+    font-size: 35pt;
+    color: #F6C070;
+    font-style: italic;
+}
+
+#index_gorny_fokin {
+    font-size: 3cm;
+    color: #A68E20;
+}
+
+#index_dolny_fokin  {
+    font-size: 3.5cm;
+    color: rgb(26,95,91);
+    }
+
+#mono_fokin {
+    font-size: 40px;
+    color: #26DE70;
+}
+
+#powiekszenie_fokin {
+    color: #936ED2;
+    font-size: large;
+}
+
+#pomniejszenie_fokin {
+    color: rgb(77,64,24);
+    font-size: small;
+}
